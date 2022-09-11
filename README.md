@@ -9,3 +9,10 @@ This project will use a webscraper to get content from the top ten results from 
 - Analyse search results
 - Enhance queries
 - Compare
+
+
+
+### Using
+- Beautiful soup 4 for scraping and comparison
+- Using NLTK stem, corpus tokenizing
+- Python
